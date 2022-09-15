@@ -1,0 +1,47 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 967622813,
+      "message": {
+        "message_id": 29,
+        "from": {
+          "id": 5160436238,
+          "is_bot": false,
+          "first_name": "unknown",
+          "username": "fidalitycomplex",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": -1001554497757,
+          "title": "#dailyRoutine",
+          "type": "supergroup"
+        },
+        "date": 1663222901,
+        "photo": [
+          {
+            "file_id": "AgACAgUAAx0CXKfA3QADHWMixHUqZxV8WW47Zz1B_LsykF45AAJuszEbeAcZVQJueS3waZ6GAQADAgADcwADKQQ",
+            "file_unique_id": "AQADbrMxG3gHGVV4",
+            "file_size": 2061,
+            "width": 90,
+            "height": 90
+          },
+          {
+            "file_id": "AgACAgUAAx0CXKfA3QADHWMixHUqZxV8WW47Zz1B_LsykF45AAJuszEbeAcZVQJueS3waZ6GAQADAgADbQADKQQ",
+            "file_unique_id": "AQADbrMxG3gHGVVy",
+            "file_size": 26167,
+            "width": 320,
+            "height": 320
+          },
+          {
+            "file_id": "AgACAgUAAx0CXKfA3QADHWMixHUqZxV8WW47Zz1B_LsykF45AAJuszEbeAcZVQJueS3waZ6GAQADAgADeAADKQQ",
+            "file_unique_id": "AQADbrMxG3gHGVV9",
+            "file_size": 34056,
+            "width": 400,
+            "height": 400
+          }
+        ]
+      }
+    }
+  ]
+}
